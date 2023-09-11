@@ -19,9 +19,9 @@ export default defineConfig({
     '@c-primary': '#5083e4',
   },
   publicPath: '/',
-  // analytics: {
-    // ga_v2: '',
-  // },
+  analytics: {
+    ga_v2: 'G-ZFXC431DWS',
+  },
   // sitemap: {
     // hostname: 'https://inversify-cn.js.org',
   // },
